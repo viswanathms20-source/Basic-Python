@@ -41,7 +41,6 @@ s=["Malayalam","Hindi","Maths","English","Chemistry"]
 marks=[]
 for i in s:
     print("Enter Marks of ",i,end=" ")
-    print("Enter Marks of ",i,end=" ")
     m=int(input(": "))
     marks.append(m)
 print(marks)
